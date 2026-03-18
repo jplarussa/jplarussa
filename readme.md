@@ -1,36 +1,29 @@
-<h1 align='center'> Hi there, I'm Jean Pierre</h1>
+# Hi, I'm Jean Pierre 👋
 
-- 🔭 I’m freelancer and currently seeking for a job
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jplarussa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- ⚡ Fun fact: I'm also passionate about finance, blockchain and cryptocurrencies!
+Operations & Procurement analyst transitioning into data analysis.
+I combine hands-on business experience with technical skills to solve 
+real operational problems — not just build things, but make processes work better.
 
-<h4> Frontend </h4> 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
+## 🧩 What I Do
 
-<h4> Backend </h4> 
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-</p>
+- **Operations & Procurement:** 10+ years managing purchasing, vendors, 
+  and operational workflows in hospitality
+- **Data & SQL:** Query, analyze, and automate processes using SQL Server 
+  and T-SQL in production environments
+- **Process Automation:** Identify inefficiencies and build solutions that 
+  stick — documented, transferable, and measurable
+- **Tools:** SQL Server · Excel + Power Query · Power BI (learning) · Git
 
-<h4> Tools </h4> 
-<p>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</p>
+## 📁 Featured Project
 
-<h4> Blockchain and Web3 </h4> 
-<p>
-<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
+### [Hotel ERP Price Automation](https://github.com/jplarussa/hotel-erp-price-automation)
+Reverse-engineered a legacy TOTVS ERP database (no documentation available) 
+to automate monthly price updates across multiple POS systems.  
+**Result:** 120+ min → 5 min per update. Zero transcription errors. 
+Process documented and transferred to 3 team members.
+
+## 🌱 Currently Learning
+SQL (intermediate/advanced) · Power BI · Data storytelling for business
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jplarussa/)
